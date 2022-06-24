@@ -35,7 +35,7 @@ aunque después se le siguió conociendo como Linux, práctica que perdura hasta
 ---------------------------
 A partir de 2006, se estima que aproximadamente el dos por ciento del kernel de Linux fue escrito por el propio Torvalds. 7​ Debido a que miles de personas han contribuido al kernel de Linux, este porcentaje es una de las mayores contribuciones al mismo. Sin embargo, declaró en 2012 que su propia contribución personal ahora es principalmente un código de fusión escrito por otros, con poca programación. 8​ Torvalds conserva la máxima autoridad para decidir qué nuevo código se incorpora al núcleo estándar de Linux. 9​
 
-Reconocimiento
+Reconoci
 -------------------------------------------------------------------------------------
 En 1996, un asteroide recibió el nombre de 9793 Torvalds en honor a Linus Torvalds.
 En 1998 recibió el premio Pioneer Award de la EFF.10​
